@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "March 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Meeting with boss",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Food shopping",
+      "day": "March 27th at 2:00pm",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Hangout with the boys",
+      "day": "August 31st at 2:00pm",
+      "reminder": false
+    },
+    {
+      "text": "Submit assignment",
+      "day": "July 5th at 9am",
+      "reminder": true,
+      "id": "OiAMe22"
+    },
+    {
+      "text": "Watch a movie",
+      "day": "Sunday at 10pm",
+      "reminder": true,
+      "id": "XSGQD92"
+    }
+  ]
+}
