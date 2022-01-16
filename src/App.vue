@@ -27,8 +27,11 @@ export default {
   methods: {
     toggleAddTask() {
       this.showAddTask = !this.showAddTask
-    }
-
+    },
+   
+   toggleDarkMode() {
+     
+   }
   
 
    
@@ -56,6 +59,7 @@ body {
   padding: 30px;
   border-radius: 5px;
 }
+
 .btn {
   display: inline-block;
   background: #000;
@@ -78,5 +82,9 @@ body {
 .btn-block {
   display: block;
   width: 100%;
+}
+
+.darkmode {
+  background-color: black
 }
 </style>
